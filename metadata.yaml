@@ -1,0 +1,32 @@
+_repo: Der-Kalendermann-vom-Veitsberg--Eine-Erz-hlung-f-r-das-Volk_15756
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glaubrecht, O. (Otto)
+    aliases:
+    - Glaubrecht, Otto
+    - Oeser, Rudolf
+    birthdate: 1807
+    deathdate: 1859
+    gutenberg_agent_id: '6253'
+    url: http://www.gutenberg.org/2009/agents/6253
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Oeser_(Schriftsteller)
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15756'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Hessen (Hesse, Germany : Province) -- Fiction'
+title: 'Der Kalendermann vom Veitsberg: Eine Erzählung für das Volk'
+url: http://www.gutenberg.org/ebooks/15756
